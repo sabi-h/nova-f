@@ -1,0 +1,4 @@
+
+# Credentials
+SOME_VARIABLE = 'SOME_VARIABLE'
+
