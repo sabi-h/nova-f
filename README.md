@@ -2,7 +2,7 @@
 https://hackersandslackers.com/plotly-dash-with-flask/
 
 
-### Embed Matplotlib into Flask App
+### Embed Matplotlib into Flask App
 https://gist.github.com/illume/1f19a2cf9f26425b1761b63d9506331f
 
 
